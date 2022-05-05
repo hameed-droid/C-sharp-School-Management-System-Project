@@ -1,0 +1,15 @@
+D:\Shigri BSCS\LOCAL DISK D\Project c#\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe.config
+D:\Shigri BSCS\LOCAL DISK D\Project c#\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe
+D:\Shigri BSCS\LOCAL DISK D\Project c#\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.pdb
+D:\Shigri BSCS\LOCAL DISK D\Project c#\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.AssemblyReference.cache
+D:\Shigri BSCS\LOCAL DISK D\Project c#\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.LoginForm.resources
+D:\Shigri BSCS\LOCAL DISK D\Project c#\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Properties.Resources.resources
+D:\Shigri BSCS\LOCAL DISK D\Project c#\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.GenerateResource.cache
+D:\Shigri BSCS\LOCAL DISK D\Project c#\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+D:\Shigri BSCS\LOCAL DISK D\Project c#\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.exe
+D:\Shigri BSCS\LOCAL DISK D\Project c#\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
+D:\Shigri BSCS\LOCAL DISK D\Project c#\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Form2.resources
+D:\Shigri BSCS\LOCAL DISK D\Project c#\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.Form3.resources
+D:\Shigri BSCS\LOCAL DISK D\Project c#\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.ManageStudents.resources
+D:\Shigri BSCS\LOCAL DISK D\Project c#\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.ManageUsers.resources
+D:\Shigri BSCS\LOCAL DISK D\Project c#\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.ShowUsers.resources
